@@ -59,7 +59,6 @@ $msg = "Please select image file.";
 </head>
 
 <body>
-<a href='http://www.9lessons.info'>www.9lessons.info</a>
 <form action="" method='post' enctype="multipart/form-data">
 <h3>Upload image file here</h3><br/>
 <div style='margin:10px'><input type='file' name='file'/> <input type='submit' value='Upload Image'/></div>
